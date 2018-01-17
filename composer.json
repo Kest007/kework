@@ -1,10 +1,15 @@
+
 {
-    "packages": {
-        "vendor/package-name": {
-            "dev-master": { @composer.json },
-            "1.0.x-dev": { @composer.json },
-            "0.0.1": { @composer.json },
-            "1.0.0": { @composer.json }
+    "name": "Kest007/kework",
+    "description": "Kework PHP Framework Version 1.0",
+    "license": "MIT License",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Kest007/kework.git"
         }
+    ],
+    "require": {
+        "Kest007/kework": "1.0.*"
     }
 }
