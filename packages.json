@@ -1,0 +1,25 @@
+{
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "kest007/kework",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://github.com/kest007/kework.git",
+                    "type": "git"
+                },
+                "source": {
+                    "url": "https://github.com/kest007/kework",
+                    "type": "git"
+                },
+                "autoload": {
+                    "classmap": ["project/"]
+                }
+            }
+        }
+    ],
+    "require": {
+        "kest007/kework": "*"
+    }
+}
