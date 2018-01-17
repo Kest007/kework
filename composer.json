@@ -3,7 +3,7 @@
     "name": "Kest007/kework",
     "version": "1.0.0",
     "description": "Kework PHP Framework Version 1.0",
-    "license": "MIT License",
+    "license": "MIT",
     "config": {
         "platform": {
             "php": "7.2"
