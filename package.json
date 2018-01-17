@@ -1,0 +1,19 @@
+
+{
+  "name": "kework",
+  "description": "Kework PHP Framework Version 1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kest007/kework.git"
+  },
+  "keywords": [
+    "php",
+    "framework"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kest007/kework/issues"
+  },
+  "homepage": "https://github.com/Kest007/kework"
+}
