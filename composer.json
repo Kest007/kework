@@ -1,22 +1,22 @@
 {
-    "repositories":[
+    "name": "kest007/kework",
+    "type": "package",
+    "description": "framework",
+    "keywords": ["framework"],
+    "homepage": "https://github.com/kest007/kework.git",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
         {
-            "type": "package",
-            "package": {
-                "name": "kest007/kework",
-                "version": "1.0.0",
-                "source": {
-                    "url": "https://github.com/kest007/kework.git",
-                    "type": "git",
-                    "reference": "master"
-                },
-                "autoload": {
-                    "classmap": ["PDOConnection.php"]
-                }
-            }
+            "name": "Konstantin Rebrov",
+            "email": "kest007@gmail.com"
         }
     ],
     "require": {
-        "kest007/kework": "1.0.0"
+        "php": ">=7.2"
+    },
+    "minimum-stability": "master",
+    "autoload": {
+        "classmap": [ "PDOConnection.php" ]
     }
 } 
