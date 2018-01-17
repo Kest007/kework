@@ -1,5 +1,6 @@
 {
-
+    "name": "Kest007/kework",
+    "description": "A short description of what your package does",
     "repositories": [
         {
             "type": "package",
