@@ -8,8 +8,5 @@
             "type": "git",
             "url": "https://github.com/Kest007/kework.git"
         }
-    ],
-    "require": {
-        "Kest007/kework": "1.0.*"
-    }
+    ]
 }
