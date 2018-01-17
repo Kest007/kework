@@ -7,10 +7,14 @@
  */
 
 /**
- * Description of KW
+ * Application Class
  *
- * @author kest
+ * @author Rebrov K.A. <kest007@gmail.com>
+ * @create: 17.01.2018
+ * @update: 17.01.2018
+ * @version: 1.0
+ * 
  */
-class KW {
+class KWork {
     //put your code here
 }
