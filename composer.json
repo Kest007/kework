@@ -15,8 +15,5 @@
     "require": {
         "php": ">=7.2"
     },
-    "minimum-stability": "master",
-    "autoload": {
-        "classmap": [ "PDOConnection.php" ]
-    }
+    "minimum-stability": "master"
 } 
