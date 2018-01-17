@@ -3,10 +3,10 @@
         {
             "type": "package",
             "package": {
-                "name": "Kest007/kework",
+                "name": "kest007/kework",
                 "version": "1.0.0",
                 "source": {
-                    "url": "https://github.com/Kest007/kework.git",
+                    "url": "https://github.com/kest007/kework.git",
                     "type": "git",
                     "reference": "master"
                 },
@@ -17,6 +17,6 @@
         }
     ],
     "require": {
-        "Kest007/kework": "1.0.0"
+        "kest007/kework": "1.0.0"
     }
 } 
