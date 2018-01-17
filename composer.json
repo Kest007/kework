@@ -1,12 +1,20 @@
-
 {
-    "name": "Kest007/kework",
-    "version": "1.0.0",
-    "description": "Kework PHP Framework Version 1.0",
-    "license": "MIT",
-    "config": {
-        "platform": {
-            "php": "7.2"
+
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "Kest007/kework",
+                "version": "master",
+                "source": {
+                    "url": "https://github.com/Kest007/kework.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
+    ],
+    "require": {
+        "Kest007/kework": "master"
     }
 }
