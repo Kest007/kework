@@ -34,6 +34,6 @@ namespace php\base;
  * @update: 17.01.2018
  * @version: 1.0
  */
-class KWork extends KWorkBase {
+class KWorkBase {
     
 }
