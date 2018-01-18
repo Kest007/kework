@@ -3,9 +3,11 @@
     "description": "Kework PHP Framework",
     "type": "project",
     "license": "MIT",
-    "keywords": [ "php", "framework", "kework", "Kework PHP Framework" ],
+    "keywords": ["php", "framework", "kework", "Kework PHP Framework"],
     "autoload": {
-        "psr-4": { "kework\\": "kework/" }
+        "psr-4": {
+            "kework\\": "kework/"
+        }
     },
     "prefer-stable": true,
     "require": {
@@ -16,5 +18,10 @@
             "name": "Kest",
             "email": "kest007@gmail.com"
         }
-    ]
+    ],
+    "extra": {
+        "installer-paths": {
+            "modules/{$name}": ["kework"]
+        }
+    }  
 }
