@@ -6,7 +6,12 @@
     "keywords": ["php", "framework", "kework", "Kework PHP Framework"],
     "autoload": {
         "psr-4": {
-            "kework\\": "kework/"
+            "kework\\": "kework"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "kework\\": "kework"
         }
     },
     "prefer-stable": true,
