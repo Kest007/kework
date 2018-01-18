@@ -1,19 +1,12 @@
 {
-    "name": "kest007/kework",
-    "type": "package",
-    "description": "framework",
-    "keywords": ["framework"],
-    "homepage": "https://github.com/kest007/kework.git",
-    "version": "1.0.0",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Konstantin Rebrov",
-            "email": "kest007@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.2"
+    "name":"kest007/kework",
+    "version":"1.0.0",
+    "require":{
+        "php":">=5.3.0"
     },
-    "minimum-stability": "master"
-} 
+    "autoload":{
+        "psr-0":{
+            "kework":""
+        }
+    }
+}

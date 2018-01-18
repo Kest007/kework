@@ -3,7 +3,7 @@
 /*
  * The MIT License
  *
- * Copyright 2018 Rebrov Konstantin <kest007@gmail.com>.
+ * Copyright 2018 Konstantin Rebrov <kest007@gmail.com>.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -29,7 +29,7 @@ namespace php\base;
 /**
  * Description of newPHPClass
  *
- * @author Rebrov Konstantin <kest007@gmail.com>.
+ * @author Konstantin Rebrov <kest007@gmail.com>.
  * @create: 17.01.2018
  * @update: 17.01.2018
  * @version: 1.0
