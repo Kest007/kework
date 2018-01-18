@@ -1,6 +1,7 @@
 {
     "name": "kest007/kework",
     "description": "Kework PHP Framework",
+    "version": "1.0.0",
     "type": "project",
     "license": "MIT",
     "keywords": ["php", "framework", "kework", "Kework PHP Framework"],
