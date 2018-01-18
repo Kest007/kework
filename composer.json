@@ -18,10 +18,5 @@
             "name": "Kest",
             "email": "kest007@gmail.com"
         }
-    ],
-    "extra": {
-        "installer-paths": {
-            "modules/{$name}": ["kework"]
-        }
-    }  
+    ]
 }
